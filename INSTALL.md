@@ -27,7 +27,7 @@ Instructions
 12. bannertool/output/bannertool makebanner -i media/banner.png -a media/home-sound.wav -o media/banner.bnr
 13. bannertool/output/bannertool makesmdh -s "Nintendo RSS" -l "Nintendo RSS" -p "SenorContento" -i media/icon.png  -o media/icon.icn
 --------------------------------------------------------------------
-14. If you already have makerom, goto Step 15, otherwise download it from [here](https://github.com/profi200/Project_CTR/releases)
+14. If you already have makerom, goto Step 15, otherwise download it from [here](https://github.com/profi200/Project_CTR/releases).
 --------------------------------------------------------------------
 15. Type the command below.
 16. makerom -f cia -o NintendoRSS.cia -DAPP_ENCRYPTED=false -rsf sample.rsf -target t -exefslogo -elf NintendoRSS-3DS.elf -icon media/icon.icn -banner media/banner.bnr
