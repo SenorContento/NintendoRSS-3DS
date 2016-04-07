@@ -1,6 +1,6 @@
 # Install Instructions
 
-These instructions are 
+These instructions are for creating a Home Menu Installable .cia file for the Nintendo 3DS.
 
 This should eventually be automated by the Makefile, but for now you need to type these instructions manually.
 
